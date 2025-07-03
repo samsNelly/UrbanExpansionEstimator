@@ -24,3 +24,9 @@ This project uses satellite imagery from the EuroSAT dataset to classify land ma
 - scikit-learn
 - NumPy, Pandas
 - Matplotlib, Seaborn
+
+## References
+
+[1] Eurosat: A novel dataset and deep learning benchmark for land use and land cover classification. Patrick Helber, Benjamin Bischke, Andreas Dengel, Damian Borth. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2019.
+
+[2] Introducing EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification. Patrick Helber, Benjamin Bischke, Andreas Dengel. 2018 IEEE International Geoscience and Remote Sensing Symposium, 2018.
